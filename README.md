@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tejasathalye
+- 👀 I’m interested in web development, game develpoment, graphics...
+- 🌱 I’m currently learning Computer Engineering
+- 💞️ I’m looking to collaborate on various web development projects, game development, graphic creating...
+- 📫 How to reach me on Discord @z3us_meow or on Instagram @artist.tejas_
+

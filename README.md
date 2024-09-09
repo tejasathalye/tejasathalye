@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with **advanced blockchain solutions and integrating privacy-friendly methods**
 
+- 👨‍💻 Currently working on **Realtime sign language conversion to text**
+
 - 👨‍💻 My personal portfolio website [https://tejasathalye.vercel.app](https://tejasathalye.vercel.app)
 
 - 💬 Ask me about **AI, ML, or Python!**

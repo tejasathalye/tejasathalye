@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **ML, AI, blockchain, and data analytics**
 
-- 🌱 I’m currently learning **BTech Computer Engineering (final year)**
+- 🌱 I’m currently learning **BE/BTech Computer Engineering (final year)**
 
 - 👯 I’m looking to collaborate on **AI-driven projects, federated learning systems, and data science innovations**
 
